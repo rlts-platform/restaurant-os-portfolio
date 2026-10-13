@@ -27,6 +27,10 @@ Restaurant OS is under active development. The account dashboard and administrat
 
 The long-term goal is to help restaurant businesses organize locations, connect essential systems, and bring important operational information together.
 
+## Source Showcase
+
+A sanitized, presentation-only TypeScript component demonstrates an account overview with account status, plan, and location count: [View the code sample](showcase/AccountOverview.tsx).
+
 ## Source Code & Intellectual Property Notice
 
 This public repository is a limited portfolio showcase, not a release of the complete commercial application. A sanitized dashboard example is included in the `showcase/` directory. The complete application, backend logic, database configuration, and planned integrations remain private because they represent substantial original work developed for commercial use.
